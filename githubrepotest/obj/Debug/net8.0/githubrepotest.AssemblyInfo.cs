@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("githubrepotest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+465fabfafca9d5173a5db9a53a06d6c44f567e8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("githubrepotest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("githubrepotest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
